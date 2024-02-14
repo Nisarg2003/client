@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+
+}
+
+/* .poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+} */
+
+.customTableHeader {
+  background-color: #0DF5E3 !important;
 }
 
 .App-logo {
@@ -27,6 +38,8 @@
 .App-link {
   color: #61dafb;
 }
+
+
 
 @keyframes App-logo-spin {
   from {
